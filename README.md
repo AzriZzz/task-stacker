@@ -5,7 +5,6 @@
 ```
 npm i
 npm start
-
 ```
 
 ### How to run JSON-Server to connect with DB.json?
